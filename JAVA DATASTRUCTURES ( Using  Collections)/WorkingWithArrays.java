@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main {
+public class WorkingWithArrays {
     public static void main(String [] args) {
 //Array initialization
         String[] colors = new String[5];
