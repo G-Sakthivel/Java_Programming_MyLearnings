@@ -20,10 +20,7 @@
              }
          }
          System.out.println("Count of factors for " + num + " is " + count); // Output: 4
-         
- 
-     }
-     
+     }    
  }
 
 
